@@ -15,7 +15,7 @@ I always look forward to exceeding expectations and I am effective both working 
 In my spare time, I like to travel :walking:, read :books:, listen to music :headphones: and watch movies :tv:.
 
 I enjoy trying out emerging technologies and connecting with people across a wide range of backgrounds. 
-If you ever want to bounce ideas off of me or even just have a chat about my favorite anime, please feel free to reach out. 😄
+If you ever want to bounce ideas off of me or even just have a chat, please feel free to reach out. 😄
 
 ## ⚡ Stats
 ![Pravin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhuriPravin&hide=["issues"]&show_icons=true)
