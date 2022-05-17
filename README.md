@@ -1,4 +1,4 @@
-# Hi, I'm [Pravin](dhuripravin.github.io)! 👋
+# Hi, I'm [Pravin](https://dhuripravin.github.io)! 👋
 
 >  💻 Data Scientist | Data Analyst
 
