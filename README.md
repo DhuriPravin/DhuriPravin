@@ -17,8 +17,8 @@ In my spare time, I like to travel :walking:, read :books:, listen to music :hea
 I enjoy trying out emerging technologies and connecting with people across a wide range of backgrounds. 
 If you ever want to bounce ideas off of me or even just have a chat, please feel free to reach out. 😄
 
-## ⚡ Stats
-![Pravin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhuriPravin&hide=["issues"]&show_icons=true)
+--## ⚡ Stats
+--![Pravin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhuriPravin&hide=["issues"]&show_icons=true)
 
 ##  :sparkles: Skills  
 
