@@ -8,7 +8,7 @@
 
 ---
 
-I have over 5 years of experience working as a data scientist.
+I have over more than half a decade of experience working as a data scientist.
 My passion lies in solving challenging problems, designing systems, and communicating complex ideas to non-technical stakeholders.
 I always look forward to exceeding expectations and I am effective both working as an individual and as part of a team.
 
